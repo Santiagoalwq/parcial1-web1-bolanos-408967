@@ -1,1 +1,9 @@
 # parcial1-web1-bolanos-408967
+
+NOMBRE: Santiago Alexander Bolaños Angulo
+
+CODIGO: 408967
+
+CURSO: TECNOLOGIA EN DESARROLLO DE SOFTWARE
+
+ENLACE EXPLICATIVO:
